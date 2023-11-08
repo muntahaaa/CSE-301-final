@@ -1,0 +1,12 @@
+7 11
+vip_road park_street 7
+vip_road mg_road 5
+park_street bidhan_sarani 8
+park_street mg_road 9
+park_street red_road 7
+bidhan_sarani red_road 5
+mg_road red_road 15
+mg_road hare_street 6
+red_road hare_street 8
+red_road kalyani_express 9
+hare_street kalyani_express 11
